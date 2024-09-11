@@ -44,8 +44,8 @@
 
 ```
 Developing AI Agent with PEAS Description
-Developed by: SUDHARSAN RAM M 
-RegisterNumber: 212222110048
+Developed by: Jeyabalan T
+RegisterNumber: 212222240040
 
 class VacuumCleanerAgent:
     def __init__(self):
